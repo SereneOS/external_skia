@@ -17,7 +17,6 @@
 
 class GrContext;
 class GrRenderTargetContext;
-class SkAndroidFrameworkUtils;
 class SkBaseDevice;
 class SkBitmap;
 class SkClipStack;
